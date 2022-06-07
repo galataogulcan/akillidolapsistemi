@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "575651805733",
+    "firebase_url": "https://dolapyonetim-43466-default-rtdb.firebaseio.com",
+    "project_id": "dolapyonetim-43466",
+    "storage_bucket": "dolapyonetim-43466.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575651805733:android:cfcdafc742475fef315dcc",
+        "android_client_info": {
+          "package_name": "com.example.dolapyonetim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575651805733-5lcfbtmd3gq7doa2old4uisvcfhh0vg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrBuYs2RMh2SsaUI8Cq61h3qffMhzKKaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575651805733-5lcfbtmd3gq7doa2old4uisvcfhh0vg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -38,6 +38,7 @@ Akıllı Dolap Sistemi, kampüs içerisindeki ihtiyaca yönelik yapılmış bir 
 
  					    
 GİRİŞ 
+
 İnsanoğlunun sığınma ihtiyacı, zaman içerisinde yaşadığı mekanları kendisi için düzenleme, daha konforlu ve yaşanır hale getirme, ve işlevsellik katma şekline dönüşmüştür.
 Bu dönüşüm yaşanırken, mimarlık kavramı da gelişmiş olup, artık yapılar daha sağlam, daha büyük daha yüksek, daha dayanıklı yapılmaya çalışıldığı gibi, daha güzel, daha konforlu ve daha işlevsel dizayn edilmeye de başlanmıştır. Asansöründen merdiven otomatına, diyafonundan iç mekan aydınlatmasına, buzdolabından bulaşık makinesine, çamaşır makinesinden televizyonuna, her ekipman teknolojik olarak kontrol edilebilir hale gelmiştir.
 Akıllı Dolap Sistemi, bu anlatılanlara uygun yapılmış bir projedir. Kampüs hayatında ve günlük yaşamda insanların geçici olarak depolama ihtiyacı beraberinde pek çok problem getirirken bu problemin çözülmesi de bir o kadar basittir. Teknolojik olarak kontrol edilmeyen bir sistemin getirdiği problemler, yaşanan karışıklıklar bu dönüşümün habercisi olarak sunulabilir. 
@@ -48,35 +49,6 @@ YÖNTEM-METOD
 Bu projede, mobil uygulama kısmında Flutter kullanılarak Dart dili tercih edilmiştir ve geliştirilmiştir. Flutter ve beraberinde Dart dilinin tercih edilme sebebi, Flutter Framework’ünün, tek bir platform üzerinden iOS ve Android için Native mobil uygulamalar ve ara yüzler geliştirebilme imkanı sunmasıdır. Ayrı ayrı platformlar için farklı diller öğrenme ihtiyacını ortadan kaldırması nedeniyle, Dart ve Flutter bu proje için en uygun yöntem olarak seçilmiş ve uygulanmıştır. 
 Projede,Veri tabanı olarak ise Google Cloud Firestore kullanılmıştır. Google Cloud Firestore tercih edilme sebebi ise Bulut bir veri tabanı olması ve esnek bir yapıya sahip olması en önemli özelliklerindendir.
 Fiziksel kısımda ise, dolap kilit kontrol sistemi, Raspberry Pi 3B+ üzerinde Python diliyle yazılmış kod ile kontrol edilmiştir. İki platformu, yani Raspberry Pi ve Mobil uygulama, bulut veritabanını aracı olarak kullanarak bağlanmış ve  kontrol sağlanmıştır. 
-
-GÖRSELLER
-Veri tabanı:
-
-Mobil Arayüz:
-
-
-Kilit Sistemi Şeması:
-Dolap:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 SONUÇ VE ÖNERİLER
 
